@@ -1,0 +1,25 @@
+{
+    "author": "jaloar@jasonloar.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "test",
+    "pebble": {
+        "displayName": "test",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "3a437cca-dcb4-4d0a-b0c9-3fd2cb30d1e1",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
